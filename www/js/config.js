@@ -1,8 +1,8 @@
 
-var krms_config ={	
-	'ApiUrl' : "YOUR_API_URL",
-	'DialogDefaultTitle' : "YOUR_OWN_DIALOG_TITLE",
-	'pushNotificationSenderid' : "YOUR_ANDROID_PUSH_PROJECT_ID",
-	'facebookAppId' : "YOUR_FACEBOOK_APP_ID",
-	'APIHasKey' : "YOUR API HASH KEY (OPTIONAL)"
+var krms_config ={		
+	'ApiUrl':"http://www.patraer.com/mobileapp/api",				
+	'DialogDefaultTitle':"Delivery de Cerveza",	
+	'pushNotificationSenderid':"409670212325",	
+	'facebookAppId':"101091337135047", 
+	'APIHasKey':"AIzaSyBalxsA6MhAHp8O3241vd6hR75GNI8AN-Y"
 };
